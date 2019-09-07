@@ -1,0 +1,22 @@
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}
+${AnsiBackground.BRIGHT_WHITE}                   ${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_CYAN}_ooOoo_${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}
+${AnsiBackground.BRIGHT_WHITE}                  ${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_CYAN}o8888888o${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}
+${AnsiBackground.BRIGHT_WHITE}                  ${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_CYAN}88${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}" . "${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_CYAN}88${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}                  (| -_- |)
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}                  O\  =  /O
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}               ____/`---'\____
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}             .'  \\|     |//  `.
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}            /  \\|||  :  |||//  \
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}           /  _||||| -:- |||||-  \
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}           |   | \\\  -  /// |   |
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}           | \_|  ''\---/''  |   |
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}           \  .-\__  `-`  ___/-. /
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}         ___`. .'  /--.--\  `. . __
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}      ."" '<  `.___\_<|>_/___.'  >'"".
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}     | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}     \  \ `-.   \_ __\ /__ _/   .-` /  /
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}======`-.____`-.___\_____/___.-`____.-'======
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}                   `=---='
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.RED}    ${AnsiBackground.BRIGHT_WHITE}${AnsiColor.RED}${AnsiStyle.UNDERLINE}|佛祖保佑|    ${AnsiBackground.BRIGHT_WHITE}${AnsiColor.RED}${AnsiStyle.UNDERLINE}|永不宕机|    ${AnsiBackground.BRIGHT_WHITE}${AnsiColor.RED}${AnsiStyle.UNDERLINE}|永无BUG|
+${AnsiBackground.BRIGHT_WHITE}${AnsiColor.BRIGHT_YELLOW}
